@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: black;
+}
+
+
+.categories{
+    visibility: visible;
+}
+
+@media (max-width: 640px) {
+    .categories{
+        visibility: hidden; 
+        position: absolute;
+        flex-direction: column;
+        right: 32px;
+        top: 27px;
+        align-items: center;
+        background-color: #f8fafc;
+        border-radius: 5px;
+        padding: 5px;
+    }
+}
