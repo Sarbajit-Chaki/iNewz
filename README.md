@@ -1,7 +1,7 @@
 # iNewz-News Application
 
 ## Description
-[iNewz] is a dynamic web application built using React.js and powered by the News API. It is designed to deliver the latest news across various categories. Users can stay informed with updates in Business, Entertainment, Sports, Health, and Technology, each neatly categorized for easy navigation. The application allows users to personalize their news consumption by selecting specific categories of interest, ensuring they receive relevant and timely updates tailored to their preferences.
+iNewz is a dynamic web application built using React.js and powered by the News API. It is designed to deliver the latest news across various categories. Users can stay informed with updates in Business, Entertainment, Sports, Health, and Technology, each neatly categorized for easy navigation. The application allows users to personalize their news consumption by selecting specific categories of interest, ensuring they receive relevant and timely updates tailored to their preferences.
 
 ## Key Features
 - **Latest News Updates:** Real-time news updates from a variety of reliable sources.
